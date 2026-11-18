@@ -109,14 +109,6 @@ Currently, I'm focusing on expanding my knowledge in **DevOps and Cloud Engineer
 
 ---
 
-### 💡 My Goal
-
-To grow as a Software Engineer with strong DevOps and Cloud Engineering skills, building reliable applications and scalable infrastructure through automation and continuous learning.
-
----
-
 <p align="center">
-  <i>"Keep learning, keep building, and keep improving."</i>
-  <br><br>
   Thanks for visiting my profile! Let's connect and build something awesome together 🚀
 </p>
